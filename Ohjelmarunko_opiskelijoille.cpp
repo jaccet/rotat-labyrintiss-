@@ -1,3 +1,5 @@
+// GitHub-linkki tässä: https://github.com/jaccet/rotat-labyrintiss-
+
 /* Kääntäminen g++ -w lipulla tällä hetkellä */
 
 /* Harjoituksen 2 ohjelmarunko */
